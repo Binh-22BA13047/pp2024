@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen An Binhf 
+* Student Name: Nguyen An Binh
 * Student ID: 22BA13047
 
